@@ -1,0 +1,5 @@
+com\qingcheng\service\Impl\SecKillOrderServiceImpl.class
+com\qingcheng\dao\SeckillGoodsMapper.class
+com\qingcheng\timer\SecKillGoodsTask.class
+com\qingcheng\task\MultiThreadingCreateOrder.class
+com\qingcheng\service\Impl\SecKillGoodsServiceImpl.class
